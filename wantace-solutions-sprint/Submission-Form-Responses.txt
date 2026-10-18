@@ -1,0 +1,30 @@
+Wantace / NxtWave Assignment Submission Form — Suggested Responses
+
+Did you complete the Assignment?
+No — I prepared the requirements document, AE handoff, marketing draft, video, and AI usage note, but the required first-hand Part A business audit is incomplete.
+
+What is the complexity of the assignment?
+Hard
+
+Assignment completion percentage
+Choose the closest available option to 80%, if the form only offers preset percentages. This is an estimate: the video and other written parts are prepared, but the first-hand audit evidence is missing and Part D remains provisional.
+
+Published link
+After uploading /mnt/data/Wantace_Solutions_Sprint_Parts_A-D.pdf to Google Drive and setting reviewer access, paste its shareable link here.
+
+GitHub link
+https://github.com/vagesh10/wantace-solutions-sprint
+
+Screen recording Drive link
+https://drive.google.com/file/d/1bQpXwVWlyXD0qi0WbSCXlv-0UkGlTt3B/view?usp=sharing
+
+Do you have any queries related to the assignment?
+I prepared the requirements document, AE handoff, marketing content, video presentation, and AI usage note. However, due to limited access to suitable local businesses during the festival period, I could not complete the required first-hand business audit. I have clearly disclosed this limitation rather than inventing interview evidence. Would secondary research be accepted, or could I receive a short extension to complete a genuine audit?
+
+Anything else you wish to convey
+The combined PDF includes a clickable link to my Part E video. Part A is clearly labelled as secondary research and incomplete, and Part D is provisional pending approval or genuine audit findings. I would appreciate guidance on whether this alternative approach can be accepted.
+
+Before submitting:
+- Upload the combined PDF to Google Drive and paste its shareable link in the Published link field.
+- Verify that the video link is accessible to the reviewer.
+- Upload the files from the ZIP to the GitHub repository; the repository was verified earlier but the automatic upload attempt was blocked, so confirm the files are visible online before submitting the repo link.
